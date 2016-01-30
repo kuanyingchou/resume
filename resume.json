@@ -1,0 +1,147 @@
+{
+  "basics": {
+    "name": "Kuan-Ying Chou",
+    "label": "Software Engineer",
+    "picture": "",
+    "email": "kuanyingchou@gmail.com",
+    "phone": "(626) 461-4809",
+    "website": "http://kuanyingchou.github.io",
+    "summary": "",
+    "location": {
+      "address": "816 Springer Rd",
+      "postalCode": "94024",
+      "city": "Los Altos",
+      "countryCode": "US",
+      "region": "California"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "kuanyingchou",
+        "url": "https://twitter.com/kuanyingchou"
+      },
+      {
+        "network": "Devpost",
+        "username": "kuanyingchou",
+        "url": "http://devpost.com/kuanyingchou"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "KiziLab Inc.",
+      "website": "http://kizipad.com",
+      "position": "Lead Programmer",
+      "startDate": "2013-02-01",
+      "endDate": "2015-02-28",
+      "summary": "",
+      "highlights": [
+        "Developed an internal C# library for Unity",
+        "Got promoted to lead programmer within a year, supervising a team of 5-6 engineers",
+        "Introduced version control, issue tracking, internal forum, and continuous integration to the company"
+      ]
+    },
+    {
+      "company": "OSP Taipei",
+      "website": "http://www.osp.com.tw/",
+      "position": "Software Engineer",
+      "startDate": "2013-03-21",
+      "endDate": "2013-10-05",
+      "summary": "",
+      "highlights": [
+        "Developing GUI applications for OTTO warehouses in Ruby/Qt and Tcl/tk"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Fivebyfive",
+      "position": "Android Developer",
+      "website": "http://www.xfaire.com",
+      "startDate": "2016-01-03",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "organization": "Innovative Management 360",
+      "position": "Software Engineer Intern",
+      "website": "http://innovativemanagement360.com",
+      "startDate": "2015-10-06",
+      "endDate": "2015-11-26",
+      "summary": "Developing web-based POS systems",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Tamkang University",
+      "area": "Information Management",
+      "studyType": "Master's Degree",
+      "gpa": "",
+      "startDate": "2007-09-01",
+      "endDate": "2013-01-31",
+      "courses": []
+    },
+    {
+      "institution": "Tamkang University",
+      "area": "Information Management",
+      "studyType": "Bachelor Degree",
+      "gpa": "",
+      "startDate": "2003-09-01",
+      "endDate": "2007-06-31",
+      "courses": []
+    }
+  ],
+  "skills": [
+    {
+      "name": "Android",
+      "level": "",
+      "keywords": [
+        "Java",
+        "AndroidStudio",
+        "Gradle"
+      ]
+    },
+    {
+      "name": "Web Development",
+      "level": "",
+      "keywords": [
+        "Javascript",
+        "React",
+        "Redux",
+        "Python",
+        "Elm"
+      ]
+    },
+    {
+      "name": "Game Development",
+      "level": "",
+      "keywords": [
+        "C#",
+        "Unity"
+      ]
+    },
+    {
+      "name": "Others",
+      "level": "",
+      "keywords": [
+        "C++",
+        "Haskell",
+        "Vim",
+        "Bash",
+        "Git"
+      ]
+    }
+  ],
+  "references": [],
+  "languages": [
+    {
+      "language": "English",
+      "level": "Working proficiency"
+    },
+    {
+      "language": "Chinese",
+      "level": "Native speaker"
+    }
+  ]
+}
