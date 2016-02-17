@@ -8,13 +8,16 @@
     "website": "http://kuanyingchou.github.io",
     "summary": "",
     "location": {
-      "address": "816 Springer Rd",
-      "postalCode": "94024",
-      "city": "Los Altos",
+      "address": "398 Lyndale Ave",
+      "postalCode": "95127",
+      "city": "San Jose",
       "countryCode": "US",
       "region": "California"
     },
     "profiles": [
+      {
+        "url": "http://kuanyingchou.github.io"
+      },
       {
         "network": "Twitter",
         "username": "kuanyingchou",
@@ -36,9 +39,9 @@
       "endDate": "2015-02-28",
       "summary": "",
       "highlights": [
-        "Developed an internal C# library for Unity",
-        "Got promoted to lead programmer within a year, supervising a team of 5-6 engineers",
-        "Introduced version control, issue tracking, internal forum, and continuous integration to the company"
+        "Developed an internal Unity library in C# and Java, which is used by all developers in the company",
+        "Set up and advocated version control system, issue tracking system, internal forum, and continuous integration systems",
+        "Being promoted to lead programmer within a year of employment, developing apps and libraries while supervising the engineering team of 5-6 members for another year"
       ]
     },
     {
@@ -47,10 +50,8 @@
       "position": "Software Engineer",
       "startDate": "2013-03-21",
       "endDate": "2013-10-05",
-      "summary": "",
-      "highlights": [
-        "Developing GUI applications for OTTO warehouses in Ruby/Qt and Tcl/tk"
-      ]
+      "summary": "Developing GUI applications for OTTO warehouses in Ruby/Qt and Tcl/tk",
+      "highlights": []
     }
   ],
   "volunteer": [
@@ -59,7 +60,7 @@
       "position": "Android Developer",
       "website": "http://www.xfaire.com",
       "startDate": "2016-01-03",
-      "summary": "",
+      "summary": "Developing Android and web front-end for a TV streaming service",
       "highlights": []
     },
     {
@@ -75,7 +76,7 @@
   "education": [
     {
       "institution": "Tamkang University",
-      "area": "Information Management",
+      "area": "/ Information Management",
       "studyType": "Master's Degree",
       "gpa": "",
       "startDate": "2007-09-01",
@@ -84,8 +85,8 @@
     },
     {
       "institution": "Tamkang University",
-      "area": "Information Management",
-      "studyType": "Bachelor Degree",
+      "area": "/ Information Management",
+      "studyType": "Bachelor's Degree",
       "gpa": "",
       "startDate": "2003-09-01",
       "endDate": "2007-06-31",
@@ -118,7 +119,7 @@
       "level": "",
       "keywords": [
         "C#",
-        "Unity"
+        "Unity3D"
       ]
     },
     {
@@ -126,6 +127,7 @@
       "level": "",
       "keywords": [
         "C++",
+        "Python",
         "Haskell",
         "Vim",
         "Bash",
