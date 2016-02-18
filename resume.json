@@ -14,26 +14,11 @@
       "countryCode": "US",
       "region": "California"
     },
-    "profiles": [
-      {
-        "url": "http://kuanyingchou.github.io"
-      },
-      {
-        "network": "Twitter",
-        "username": "kuanyingchou",
-        "url": "https://twitter.com/kuanyingchou"
-      },
-      {
-        "network": "Devpost",
-        "username": "kuanyingchou",
-        "url": "http://devpost.com/kuanyingchou"
-      }
-    ]
+    "profiles": []
   },
   "work": [
     {
       "company": "KiziLab Inc.",
-      "website": "http://kizipad.com",
       "position": "Lead Programmer",
       "startDate": "2013-02-01",
       "endDate": "2015-02-28",
@@ -46,7 +31,6 @@
     },
     {
       "company": "OSP Taipei",
-      "website": "http://www.osp.com.tw/",
       "position": "Software Engineer",
       "startDate": "2013-03-21",
       "endDate": "2013-10-05",
@@ -58,7 +42,6 @@
     {
       "organization": "Fivebyfive",
       "position": "Android Developer",
-      "website": "http://www.xfaire.com",
       "startDate": "2016-01-03",
       "summary": "Developing Android and web front-end for a TV streaming service",
       "highlights": []
@@ -66,7 +49,6 @@
     {
       "organization": "Innovative Management 360",
       "position": "Software Engineer Intern",
-      "website": "http://innovativemanagement360.com",
       "startDate": "2015-10-06",
       "endDate": "2015-11-26",
       "summary": "Developing web-based POS systems",
@@ -74,6 +56,13 @@
     }
   ],
   "education": [
+    {
+      "institution": "UCSC Silicon Valley Extension",
+      "area": "/ Computer Programming",
+      "studyType": "Certificate Program",
+      "startDate": "2015-06-01",
+      "courses": []
+    },
     {
       "institution": "Tamkang University",
       "area": "/ Information Management",
